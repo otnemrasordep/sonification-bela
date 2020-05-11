@@ -13,6 +13,11 @@
 // In summary, low pollution/NO2 levels approximate the output to a "clean" rendition of the piece, whilst high pollution/NO2 levels "pollute" it with delay.
 // Holding a button allows to switch from the 2020 scenario (no button pressed) to the 2019 scenario (button pressed and held).
 
+// Code built upon and inspired by:
+//		- http://docs.bela.io/delay_2render_8cpp-example.html
+//		- https://github.com/abhinav1602/.csv-to-.cpp-2D-Array/blob/master/main.cpp
+//		- http://docs.bela.io/Audio_2sample-loader_2SampleLoader_8h_source.html
+
 // School of Electronic Engineering and Computer Science
 // Queen Mary University of London
 // Spring 2020

@@ -1,12 +1,15 @@
 /***** CSVReader.h *****/
 
+// Built upon and inspired by:
+//	- https://github.com/abhinav1602/.csv-to-.cpp-2D-Array/blob/master/main.cpp
+
 #include <iostream>
 #include <fstream>
 #include <string>
-#include<regex>
-#include<ctype.h>
-#include<stdlib.h>
-#include<vector>
+#include <regex>
+#include <ctype.h>
+#include <stdlib.h>
+#include <vector>
 using namespace std;
 
 // Function to get the number of rows of .csv file

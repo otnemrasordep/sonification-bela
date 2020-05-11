@@ -2,11 +2,11 @@
 
 #include <cmath>
 
-// Bandpass filter: feedback coefficients (excluding a0)
+//Feedback coefficients (excluding a0)
 float a0 = 0.0;
 float a1 = 0.0;
 float a2 = 0.0;
-// Bandpass filter: feedforward coefficients 
+// Feedforward coefficients 
 float b0 = 0.0;
 float b1 = 0.0;							
 float b2 = 0.0;
