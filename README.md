@@ -1,4 +1,4 @@
-# SONIFICATION OF AIR POLLUTION DATA USING BELA
+# Sonification of Air Pollution Data Using Bela
 
 Final Assignment for ECS7012P: Music and Audio Programming
 
