@@ -16,6 +16,7 @@ Higher values of NO2 correspond to:
   - Higher delay feedback for each line/filter band;
   - Higher gain of delayed content for each line/filter band;
   - Lower cutoff frequencies for each line/filter band;
+  
 In summary, low pollution/NO2 levels approximate the output to a "clean" rendition of the piece, whilst high pollution/NO2 levels "pollute" it with delay. Holding a button allows to switch from the 2020 scenario (no button pressed) to the 2019 scenario (button pressed and held).
 
 Demonstration video at: https://youtu.be/uO5if7Xgi9M
